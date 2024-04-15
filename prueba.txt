@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hola mundoa
 wdawdadwadwawdw
+=======
+awdawdawdawd
+>>>>>>> develop
